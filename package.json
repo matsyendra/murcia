@@ -1,0 +1,20 @@
+{
+  "name": "murcia-proyecto",
+  "version": "0.0.0",
+  "description": "App para camioneros de murcia",
+  "scripts": {
+    "build": "gulp"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "gulpjs/gulp#4.0",
+    "merge-stream": "^1.0.0",
+    "plylog": "^0.4.0",
+    "polymer-build": "^0.6.0-alpha.3"
+  }
+}

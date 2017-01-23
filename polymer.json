@@ -1,0 +1,7 @@
+{
+  "entrypoint": "public/index.html",
+  "shell": "public/my-app.html",
+  "extraDependencies": [
+    "public/bower_components/webcomponentsjs/webcomponents-lite.min.js"
+  ]
+}
